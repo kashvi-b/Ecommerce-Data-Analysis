@@ -126,11 +126,11 @@ The interactive Tableau dashboard includes:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot inside the `dashboard` folder and use:
 
-```md
+
+
 ![Dashboard Preview](dashboard/dashboard_preview.png)
-```
+
 
 ---
 
